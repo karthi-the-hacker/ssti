@@ -55,12 +55,12 @@ Example for list of urls
                  '----- (O.o)
                         (> <)
 
-RedirectHunter Scanner
-RedirectHunter is a powerful open redirect vulnerability scanner that helps you quickly identify and mitigate potential security risks in your web applications.
+SSTI Scanner
+SST-I is a powerful Server Side Template injection vulnerability scanner that helps you quickly identify and mitigate potential security risks in your web applications.
 
 
-$ RedirectHunter [option]
-Usage: RedirectHunter [options]
+$ SSTI [option]
+Usage: SSTI [options]
 
 ```
 
