@@ -46,14 +46,14 @@ Example for list of urls
 
 👋 Hey karthithehacker
 
- .-----------------------------.
- |  Tool   : RedirectHunter ↩️  |
- |  Author : @karthithehacker🎖️|
- |       ?url=evil.com/        |
- '-----------------------------'
-                 ^      (\_/)
-                 '----- (O.o)
-                        (> <)
+ .-----------------------------.           
+ |  Tool   : SST-I 👾          |           
+ |  Author : @karthithehacker🎖️ |           
+ |       ssti{{7*7}}           |           
+ '-----------------------------'           
+                 ^      (\_/)    
+                 '----- (O.o)    
+                        (> <)    
 
 SSTI Scanner
 SST-I is a powerful Server Side Template injection vulnerability scanner that helps you quickly identify and mitigate potential security risks in your web applications.
