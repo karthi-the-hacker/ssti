@@ -14,7 +14,7 @@
 Install ssti with npm
 
 ```bash
-  npm install ssti -g
+  npm install sstiscanner -g
 ```
 
 ## Usage
