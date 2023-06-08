@@ -1,0 +1,56 @@
+{
+  "name": "ssti",
+  "version": "0.0.1",
+  "description": "SST-I is a powerful Server Side Template injection vulnerability scanner that helps you quickly identify and mitigate potential security risks in your web applications.",
+  "homepage": "https://github.com/karthi-the-hacker/ssti",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karthi-the-hacker/ssti.git"
+  },
+  "bin": {
+    "ssti": "./index.js",
+    "SSTI": "./index.js",
+    "SST-I":"./index.js",
+    "sst-i":"./index.js"
+  },
+  "readme": "README.md",
+  "author": {
+    "name": "karthikeyan V (karthithehacker)",
+    "email": "contact@karthithehacker.com",
+    "url": "https://karthithehacker.com"
+  },
+  "keywords": [
+    "SSTI",
+    "ssti",
+    "recon",
+    "server site template injection",
+    "bugbounty tool",
+    "automation",
+    "websecurity",
+    "bugbounty",
+    "bugbountytool",
+    "OWASP",
+    "pentesting",
+    "webpentesting",
+    "karthithehacker",
+    "ssti scanner"
+  ],
+  "files": [
+    "index.js",
+    "utils",
+    "includes"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.3.5",
+    "cheerio": "^1.0.0-rc.12",
+    "line-reader": "^0.4.0",
+    "request": "^2.88.2",
+    "username": "^6.0.0",
+    "yargs": "^17.7.1"
+  }
+}

@@ -1,0 +1,12 @@
+http://localhost:1337/?name=FUZZssti<%={{456 * 456}}%>
+http://localhost:1337/?name=FUZZssti{{456*456}}
+http://localhost:1337/?name=FUZZssti${{456*456}}
+http://localhost:1337/?name=FUZZ{{456*456}}
+http://localhost:1337/?name=FUZZ<%={{456 * 456}}%>
+http://localhost:1337/?name=FUZZ${{456*456}}
+http://localhost:1337/?name=FUZZssti{{456*456}}
+http://localhost:1337/?name=FUZZssti<%={{456 * 456}}%>
+http://localhost:1337/?name=FUZZssti${{456*456}}
+http://localhost:1337/?name=FUZZ{{456*456}}
+http://localhost:1337/?name=FUZZ<%={{456 * 456}}%>
+http://localhost:1337/?name=FUZZ${{456*456}}
