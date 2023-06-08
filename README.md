@@ -22,7 +22,7 @@ Install ssti with npm
 Example for single url
 
 ```bash
-  ssti -u http://example.com
+  ssti -u http://example.com/?param=FUZZ
 ```
 
 ## Usage
